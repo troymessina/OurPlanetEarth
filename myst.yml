@@ -8,34 +8,34 @@ project:
         - file: ./chapters/Ch01_EarthHistory.md
     - title: Part II - A Brief Foray into Physics
       children:
-        - file: ./chapters/Ch05_EnergyPowerUnits.md
-        - file: ./chapters/Ch06_ThermalEnergy.md
-        - file: ./chapters/Ch07_EnergyLandscape.md
-        - file: ./chapters/Ch08_FossilFuels.md
-        - file: ./chapters/Ch09_ClimateChange.md
+        - file: ./chapters/
+        - file: ./chapters/
+        - file: ./chapters/
+        - file: ./chapters/
+        - file: ./chapters/
     - title: Part III - Fossil Fuels
       children:
-        - file: ./chapters/Ch10_RenewableOverview.md
-        - file: ./chapters/Ch11_HydroelectricEnergy.md
-        - file: ./chapters/Ch12_WindEnergy.md
-        - file: ./chapters/Ch13_SolarEnergy.md
-        - file: ./chapters/Ch14_BiologicalEnergy.md
-        - file: ./chapters/Ch15_NuclearEnergy.md
-        - file: ./chapters/Ch16_SmallPlayers.md
-        - file: ./chapters/Ch17_CompareAlternatives.md
+        - file: ./chapters/
+        - file: ./chapters/
+        - file: ./chapters/
+        - file: ./chapters/
+        - file: ./chapters/
+        - file: ./chapters/
+        - file: ./chapters/
+        - file: ./chapters/
     - title: Part IV - Alternative Energy
       children:
-        - file: ./chapters/Ch18_HumanFactors.md
-        - file: ./chapters/Ch19_APlanWelcome.md
-        - file: ./chapters/Ch20_AdaptationStrategies.md
-        - file: ./chapters/Epilogue.md
+        - file: ./chapters/
+        - file: ./chapters/
+        - file: ./chapters/
+        - file: ./chapters/
     - title: Appendices
       children:
-        - file: ./chapters/AppA_Math.md
-        - file: ./chapters/AppB_Chem.md
-        - file: ./chapters/AppC_Solns.md
-        - file: ./chapters/AppD_Tangents.md
-        - file: ./chapters/Glossary.md
+        - file: ./appendices/AppA_Math.md
+        - file: ./appendices/AppB_Chem.md
+        - file: ./appendices/AppC_Solns.md
+        - file: ./appendices/AppD_Tangents.md
+        - file: ./appendices/Glossary.md
   id: 
   title: Our Planet Earth
   github: https://github.com/troymessina/OurPlanetEarth
