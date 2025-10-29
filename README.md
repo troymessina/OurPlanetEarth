@@ -1,4 +1,4 @@
-# Human Ambitions
+# Our Planet Earth
 This is an **open-access** textbook for courses on energy, environment, and climate. Anyone who complies with the original license is welcome to modify and use this work for their own use, and we hope that you will choose to contribute.  We hope that you may find it useful, and we are interested to know if you are using it!
 
 ![Build](https://img.shields.io/github/actions/workflow/status/troymessina/OurPlanetEarth/deploy.yml?branch=main)
