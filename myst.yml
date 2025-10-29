@@ -1,0 +1,96 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  toc:
+    - file: ./chapters/00preface.md
+    - title: Part I - Setting the Stage
+      children:
+        - file: ./chapters/Ch01_EarthHistory.md
+    - title: Part II - A Brief Foray into Physics
+      children:
+        - file: ./chapters/Ch05_EnergyPowerUnits.md
+        - file: ./chapters/Ch06_ThermalEnergy.md
+        - file: ./chapters/Ch07_EnergyLandscape.md
+        - file: ./chapters/Ch08_FossilFuels.md
+        - file: ./chapters/Ch09_ClimateChange.md
+    - title: Part III - Fossil Fuels
+      children:
+        - file: ./chapters/Ch10_RenewableOverview.md
+        - file: ./chapters/Ch11_HydroelectricEnergy.md
+        - file: ./chapters/Ch12_WindEnergy.md
+        - file: ./chapters/Ch13_SolarEnergy.md
+        - file: ./chapters/Ch14_BiologicalEnergy.md
+        - file: ./chapters/Ch15_NuclearEnergy.md
+        - file: ./chapters/Ch16_SmallPlayers.md
+        - file: ./chapters/Ch17_CompareAlternatives.md
+    - title: Part IV - Alternative Energy
+      children:
+        - file: ./chapters/Ch18_HumanFactors.md
+        - file: ./chapters/Ch19_APlanWelcome.md
+        - file: ./chapters/Ch20_AdaptationStrategies.md
+        - file: ./chapters/Epilogue.md
+    - title: Appendices
+      children:
+        - file: ./chapters/AppA_Math.md
+        - file: ./chapters/AppB_Chem.md
+        - file: ./chapters/AppC_Solns.md
+        - file: ./chapters/AppD_Tangents.md
+        - file: ./chapters/Glossary.md
+  id: 
+  title: Our Planet Earth
+  github: https://github.com/troymessina/OurPlanetEarth
+  license:
+    content: CC-BY-NC-4.0
+    code: GPL-3.0-or-later
+  jupyter:
+    binder: true
+    lite: true
+  requirements:
+    - python >= 3.10
+    - matplotlib >= 3.5
+    - numpy >= 2.2
+    - scipy >= 1.15
+    - pandas >= 2.2
+  description: An undergraduate text on energy, the environment, and the capacity of a planet
+  keywords: [Introductory Physics, Environmental Science, Energy]
+  authors: [Troy C. Messina]
+  numbering:
+    headings: true
+  exclude: 
+  bibliography:
+#  - ./chapters/bibliography.bib
+#  exports:
+#    - format: typst
+#      id: typstpdf
+#      template: https://github.com/rowanc1/typst-book.git
+  #    articles:
+ #       - ./chapters/00preface.md
+ #       - ./chapters/01Introduction.md
+ #       - ./chapters/02ModelAndExperiment.md
+ #       - ./chapters/03Vectors.md
+
+ #     output: ./exports/ModelingWithPhysics.pdf
+#  downloads:
+#    - file: ./exports/ElectronicsLab.pdf
+#    - id: typstpdf
+#      title: Electronics Lab
+site:
+  template: book-theme 
+  title: Our Planet Earth
+  options:
+    logo: ./figures/primary_rgb.png
+    logo_dark: ./figures/primary_white.png
+    logo_text: Our Planet Earth
+    favicon : ./figures/favicon.ico
+    comments:
+        hypothesis: true
+        utterances: true
+  nav: []
+  #actions:
+  #  - title: Learn More
+  #    url: https://mystmd.org/guide
+#  domains:
+
+#html:
+  
+  
