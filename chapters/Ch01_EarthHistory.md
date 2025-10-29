@@ -3,6 +3,10 @@ title: 🌎 A Brief History of Life on Earth and its Climate Influence
 kernelspec:
   name: python3
   display_name: 'Python 3'
+numbering:
+  headings:
+  heading_1:
+    start: 2
 ---
 
 The history of life on Earth is deeply intertwined with the history of its **climate**. Life has not simply adapted to environmental changes; it has been a **major driver** of global-scale climate transformations.
