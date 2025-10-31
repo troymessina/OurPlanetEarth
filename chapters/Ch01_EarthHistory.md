@@ -23,7 +23,7 @@ The history of life on Earth is deeply intertwined with the history of its **cli
 | **Mesozoic** | 252 - 66 Million | Age of Reptiles (Dinosaurs); appearance of flowering plants. | Generally warmer climate, high sea levels. Marine organisms like foraminifera and coccolithophores sequestered $\text{CO}_2$ as calcium carbonate shells, forming massive chalk deposits. |
 | **Cenozoic** | 66 Million - Present | Age of Mammals; evolution of grasses, expansion of savannas; evolution of modern humans. | Continental drift (e.g., formation of the Himalayas) increased rock weathering, pulling $\text{CO}_2$ from the air, contributing to the long-term **cooling trend** leading to the current ice age cycles. **Human activity** (since the Industrial Revolution) is now rapidly increasing greenhouse gases, causing unprecedented warming. |
 
-```{figure} figures\ch1\timeline_AI.jpg
+```{figure} ../figures\ch1\timeline_AI.jpg
 :label: fig:ch1:climatetimeline
 :align: center
 :width: 100%
@@ -64,7 +64,7 @@ A negative feedback acts as a stabilizer or thermostat, helping to return the sy
 
 Life is both a **cause** and a **victim** of climate change, constantly involved in these positive and negative feedback loops that determine the planet's habitable state.
 
-```{figure} figures\ch1\science.adk3705-fa.jpg
+```{figure} ../figures\ch1\science.adk3705-fa.jpg
 :label: fig:ch1:tempvtime
 :align: center
 :width: 100%
