@@ -9,9 +9,10 @@ numbering:
     start: 2
 ---
 
-The history of life on Earth is deeply intertwined with the history of its **climate**. Life has not simply adapted to environmental changes; it has been a **major driver** of global-scale climate transformations.
+The Earth is approximately 4.6 billion years old. We will start with the tale that describes the Earth before life and how the climate changed in the absence of life. Then, we will discuss how life affected the environment and the climate of Earth. The history of life on Earth is deeply intertwined with the history of its **climate**. Life has not simply adapted to environmental changes; it has been a **major driver** of global-scale climate transformations.
 
 ---
+### Earth Before Life Existed
 
 ### Timeline of Life and Climate Interaction
 
